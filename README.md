@@ -1,4 +1,6 @@
 # Comparison-of-effect-of-Inflation-in-Stock-market-Indices
+
+## Abstract
 This study compares the effect of inflation in Indices of countries, aiming and
 analyzing to provide the effects of inflation on different stock market indexes. Using
 data from 2000-2023, the study applies quantitative techniques to examine how
@@ -67,18 +69,20 @@ High inflation has persisted after the conclusion of the COVID-19 pandemic, fuel
 by things like broken supply chains and rising consumer spending as economies start
 to recover. The stock market has been affected by this and has continued to do so,
 with stock values moving in reaction to shifting in inflation rates.
-Three main nations are analyzed: the United States, China, and India. Prior to the
+- Three main nations are analyzed: the United States, China, and India. Prior to the
 pandemic, the U.S. stock market often did well during times of steady, low inflation.
 On the other hand, times of strong inflation frequently led to higher market volatility
-and lower real returns. The United States saw a very modest decrease in inflation
+and lower real returns.
+- The United States saw a very modest decrease in inflation
 during the COVID-19 epidemic in 2020, but supply chain disruptions and significant
-monetary and fiscal stimulus caused a sharp spike in prices in early 2021. The
-American stock market saw significant volatility as a result of this spike in inflation.
+monetary and fiscal stimulus caused a sharp spike in prices in early 2021.
+- The American stock market saw significant volatility as a result of this spike in inflation.
 Additionally, China’s stock market and inflation showed a complicated link that was
 influenced by both local and international commodities prices as well as national
 economic situations. Due to the nation’s response to the epidemic and disruptions in
 global supply chains, China saw distortions in its inflation during the COVID-19
-pandemic. This also had an effect on the stock market in China. The country’s
+pandemic.
+- This also had an effect on the stock market in China. The country’s
 inflation was bolstered by rising commodity prices, particularly those of oil, which
 had an impact on the stock market.
 Previously to the pandemic, monetary policy, global influences, and domestic
