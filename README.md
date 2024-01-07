@@ -96,4 +96,4 @@ In conclusion, there is a complicated relationship between inflation and stock m
 indices, and because of the particular economic circumstances during and after the
 COVID-19 epidemic, this relationship has been especially active. The kinds of
 companies and industries that are included, as well as general economic conditions,
-can all have an impact on how inflation affects stock market indices
+can all have an impact on how inflation affects stock market indices.
