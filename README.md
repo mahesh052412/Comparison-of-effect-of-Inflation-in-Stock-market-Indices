@@ -42,15 +42,16 @@ particular market (such as the US market), or even the whole stock market. These
 indices are frequently used as standards by which to compare the performance of
 mutual funds, ETFs, and individual equities.
 This study examines how stock market indices are affected by inflation both before
-and after the COVID-19 pandemic. The gradual increase in prices for goods and
-services, known as inflation, can have a big effect on the stock market. This is
+and after the COVID-19 pandemic. 
+- The gradual increase in prices for goods and services, known as inflation, can have a big effect on the stock market. This is
 because inflation has the potential to lower money’s purchasing power, which can
-have an impact on both businesses and consumers. greater inflation may result in
-greater input costs for businesses, which may reduce their profitability. Increased
+have an impact on both businesses and consumers.
+- Greater inflation may result in greater input costs for businesses, which may reduce their profitability. Increased
 inflation may lower customers’ purchasing power unless their earnings increase in
 line with it, which may have an effect on their shopping decisions.
 Prior to the COVID-19 epidemic, some stock kinds frequently performed better
-during times of excessive inflation. worth stocks, for instance, can provide investors
+during times of excessive inflation.
+- Worth stocks, for instance, can provide investors
 both the possibility of capital growth and a consistent dividend income stream if they
 trade at a discount to their true worth. Similarly, investments in inflation-resistant
 industries like consumer staples, healthcare, and energy stocks can provide both
