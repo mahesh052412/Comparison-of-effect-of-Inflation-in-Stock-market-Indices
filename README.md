@@ -16,6 +16,17 @@ The analysis in this study utilizes several mathematical and statistical concept
 - Pearson Correlation Coefficient measures the linear relationship between two variables.
 - ADF test (Augmented Dickey-Fuller Test) determines the stationarity of a time series.
 - Data Transformations includes standardization, Yeo-Johnson, Box-Cox, and logarithmic transformations​.
+  Standardized Data
+  ![Standardized Data](https://github.com/user-attachments/assets/54c2e2b7-9a2f-46f9-871f-b403974ff4da)
+
+  Below image of Yeo-Johnson transformation shows the results suggest that underlying non-linearities might exist in
+  the data.
+  ![Yeo-Johnson Transformation](https://github.com/user-attachments/assets/c128e90b-f750-4a51-b1c6-2092a5e267ad)
+
+  The Box-Cox transform, designed for strictly positive data, might introduce distortions, making it less reliable for this particular dataset. It empha
+  sizes the importance of choosing transformations that align with the characteristics of the data.
+  ![Box-Cox-transformation](https://github.com/user-attachments/assets/4d55d86c-4833-4073-89e9-fff25669187e)
+
 - **Basic Correlation Analysis:** Examines raw data to understand initial correlations.
 - **Stationarity Tests:** Uses tests like the ADF test to check for trends and seasonality in the data.
 - **Data Transformations:** Applies various transformations to ensure stationarity.
