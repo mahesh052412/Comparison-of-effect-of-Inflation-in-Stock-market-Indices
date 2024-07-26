@@ -4,11 +4,7 @@
 This study investigates the impact of inflation on stock market indices in various countries from 2000 to 2023. It explores the relationship between inflation and stock market performance, focusing on different stock types and sectors, especially in the context of the COVID-19 pandemic and the economic conditions it created.
 
 ## Background
-Inflation represents the gradual loss of purchasing power due to rising prices. This study categorizes inflation into built-in inflation, cost-push inflation, and demand-pull inflation. Stock market indices, which track the performance of specific groups of stocks, can be influenced by inflation in complex ways. The study aims to identify patterns and trends in how stock market indices respond to inflationary pressures before and after the pandemic​(Mahesh_Dissertation)​.
-
-## Tools Used
-The analysis in this study utilizes several mathematical and statistical concepts:
-
+Inflation represents the gradual loss of purchasing power due to rising prices. This study categorizes inflation into built-in inflation, cost-push inflation, and demand-pull inflation. Stock market indices, which track the performance of specific groups of stocks, can be influenced by inflation in complex ways. The study aims to identify patterns and trends in how stock market indices respond to inflationary pressures before and after the pandemic​.
 
 ## Analysis Performed
 - Scales features to a specified range (typically 0-1).
